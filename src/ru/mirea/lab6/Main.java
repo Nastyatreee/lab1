@@ -1,3 +1,5 @@
+package ru.mirea.lab6;
+
 interface Movable {
     void moveUp();
     void moveDown();
